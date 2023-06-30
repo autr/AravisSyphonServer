@@ -1,0 +1,8 @@
+*.xcodeproj
+Makefile
+*.plist
+*.xcconfig
+bin
+*.make
+.DS_Store
+of.entitlements
